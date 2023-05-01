@@ -1,6 +1,6 @@
 ### Introduction
 
-This repo contains various materials that are written on more theoretical computer science topics. 
+This repo contains various materials written by me on more theoretical computer science topics.
 
 ### Presentations
 
